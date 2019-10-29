@@ -1,2 +1,2 @@
-# RestaurantBilling
+# MovieTicketBooking
 Exercises - Management system
